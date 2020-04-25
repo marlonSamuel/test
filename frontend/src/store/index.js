@@ -8,7 +8,8 @@ Vue.use(Vuex)
 const state = {
     services,
     global,
-    base_url: 'http://www.test.com/',
+    //base_url: 'http://www.test.com/',
+    base_url: 'http://167.172.158.187/test/'
 }
 
 const mutations = {
